@@ -1,0 +1,14 @@
+﻿  proj.cpp
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(43,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(96,14): warning C4244: =: преобразование "double" в "unsigned __int64", возможна потеря данных
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(103,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(193,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(221,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(344,25): warning C4309: =: усечение константного значения
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(355,43): warning C4309: =: усечение константного значения
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(379,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(382,23): warning C4244: =: преобразование "unsigned __int64" в "long", возможна потеря данных
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(384,30): warning C4244: =: преобразование "unsigned __int64" в "long", возможна потеря данных
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(543,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\pavel\Desktop\my game dev\proj\proj\proj.cpp(819,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  proj.vcxproj -> C:\Users\pavel\Desktop\my game dev\proj\Debug\proj.exe
